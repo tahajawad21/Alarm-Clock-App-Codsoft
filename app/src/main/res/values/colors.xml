@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000080</color> <!-- Dark Navy Blue -->
+    <color name="colorPrimaryDark">#000080</color> <!-- Dark Navy Blue -->
+    <color name="colorAccent">#FF4081</color>
+    <color name="background">#FFFFFF</color>
+    <color name="grey">#808080</color>
+    <color name="green">#00FF00</color> <!-- Green color -->
+    <color name="darkNavyBlue">#000080</color> <!-- Ensure darkNavyBlue is defined -->
+</resources>

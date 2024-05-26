@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alarm Clock App</string>
+
+    <!-- Alarm tones -->
+    <string-array name="alarm_tones">
+        <item>Alarm Tone 1</item>
+        <item>Alarm Tone 2</item>
+        <item>Alarm Tone 3</item>
+    </string-array>
+
+    <!-- Button text -->
+    <string name="set_alarm_button">Set New Alarm</string>
+    <string name="save_alarm_button">Save Alarm</string>
+    <string name="snooze_button">Snooze</string>
+
+    <!-- Miscellaneous -->
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="background_image_description">Background Image</string>
+</resources>
